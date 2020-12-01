@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2020-12-01T10:17:31.883Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15" etag="Qol0ZX79M4iKFLOXuWX0" version="13.10.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-01T10:24:46.578Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15" etag="NBouEvm_h5r5sqA0wlF7" version="13.10.0" type="github">
   <diagram id="2CdF47WXMjzZzjcYZRdF" name="Page-1">
     <mxGraphModel dx="1395" dy="935" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="S0Wiqqi0VeldG7RDCI-M-1" value="" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="130" y="49" width="620" height="881" as="geometry" />
+          <mxGeometry x="129" y="49" width="620" height="881" as="geometry" />
         </mxCell>
         <mxCell id="S0Wiqqi0VeldG7RDCI-M-2" value="Teacher&amp;nbsp;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="65" y="212" width="30" height="60" as="geometry" />
@@ -59,7 +59,7 @@
             <mxGeometry x="494" y="338" width="96" height="48" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="Edit book&amp;nbsp;" lucidchartObjectId="KM.SlchLOaab" id="s6yUv9onuNBRDBHXsQw6-38">
+        <UserObject label="Edit books&amp;nbsp;" lucidchartObjectId="KM.SlchLOaab" id="s6yUv9onuNBRDBHXsQw6-38">
           <mxCell style="html=1;overflow=block;whiteSpace=wrap;ellipse;whiteSpace=wrap;fontSize=11;spacing=3;strokeColor=#5e5e5e;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=7;strokeWidth=2;" vertex="1" zOrder="5" parent="1">
             <mxGeometry x="494" y="398" width="96" height="48" as="geometry" />
           </mxCell>
@@ -158,7 +158,7 @@
             <mxGeometry x="494" y="278" width="96" height="48" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="Remove book" lucidchartObjectId="KM.SlchLOaab" id="s6yUv9onuNBRDBHXsQw6-39">
+        <UserObject label="Remove books" lucidchartObjectId="KM.SlchLOaab" id="s6yUv9onuNBRDBHXsQw6-39">
           <mxCell style="html=1;overflow=block;whiteSpace=wrap;ellipse;whiteSpace=wrap;fontSize=11;spacing=3;strokeColor=#5e5e5e;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=7;strokeWidth=2;" vertex="1" zOrder="5" parent="1">
             <mxGeometry x="494" y="458" width="96" height="48" as="geometry" />
           </mxCell>
