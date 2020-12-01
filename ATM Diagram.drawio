@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-01T09:06:59.535Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15" etag="fuOrpE8txxJPiLwVJFho" version="13.10.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-01T09:08:50.142Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15" etag="B_B0AN08QNBReEHbYF7H" version="13.10.0" type="github">
   <diagram id="2CdF47WXMjzZzjcYZRdF" name="Page-1">
     <mxGraphModel dx="1395" dy="935" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -31,7 +31,7 @@
         </UserObject>
         <UserObject label="Create group&amp;nbsp;" lucidchartObjectId="KM.SlchLOaab" id="s6yUv9onuNBRDBHXsQw6-11">
           <mxCell style="html=1;overflow=block;whiteSpace=wrap;ellipse;whiteSpace=wrap;fontSize=11;spacing=3;strokeColor=#5e5e5e;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=7;strokeWidth=2;" vertex="1" zOrder="5" parent="1">
-            <mxGeometry x="440" y="380" width="96" height="48" as="geometry" />
+            <mxGeometry x="454" y="362" width="96" height="48" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Subscribe/Add &amp;nbsp;Students&amp;nbsp;" lucidchartObjectId="KM.SlchLOaab" id="s6yUv9onuNBRDBHXsQw6-12">
@@ -64,7 +64,7 @@
         </mxCell>
         <UserObject label="Login/Logout&amp;nbsp;" lucidchartObjectId="KM.SlchLOaab" id="s6yUv9onuNBRDBHXsQw6-18">
           <mxCell style="html=1;overflow=block;whiteSpace=wrap;ellipse;whiteSpace=wrap;fontSize=11;spacing=3;strokeColor=#5e5e5e;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=7;strokeWidth=2;" vertex="1" zOrder="5" parent="1">
-            <mxGeometry x="377" y="320" width="96" height="48" as="geometry" />
+            <mxGeometry x="382" y="302" width="96" height="48" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="s6yUv9onuNBRDBHXsQw6-19" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="S0Wiqqi0VeldG7RDCI-M-2" target="s6yUv9onuNBRDBHXsQw6-18">
@@ -111,7 +111,7 @@
         </mxCell>
         <UserObject label="Search catalog&amp;nbsp;" lucidchartObjectId="KM.SlchLOaab" id="s6yUv9onuNBRDBHXsQw6-28">
           <mxCell style="html=1;overflow=block;whiteSpace=wrap;ellipse;whiteSpace=wrap;fontSize=11;spacing=3;strokeColor=#5e5e5e;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=7;strokeWidth=2;" vertex="1" zOrder="5" parent="1">
-            <mxGeometry x="281" y="550" width="96" height="48" as="geometry" />
+            <mxGeometry x="310" y="562" width="96" height="48" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Search book by title&amp;nbsp;" lucidchartObjectId="KM.SlchLOaab" id="s6yUv9onuNBRDBHXsQw6-29">
@@ -217,12 +217,12 @@
         </mxCell>
         <UserObject label="Subscribe/ Request join&amp;nbsp;" lucidchartObjectId="KM.SlchLOaab" id="s6yUv9onuNBRDBHXsQw6-50">
           <mxCell style="html=1;overflow=block;whiteSpace=wrap;ellipse;whiteSpace=wrap;fontSize=11;spacing=3;strokeColor=#5e5e5e;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=7;strokeWidth=2;" vertex="1" zOrder="5" parent="1">
-            <mxGeometry x="260" y="376" width="96" height="48" as="geometry" />
+            <mxGeometry x="260" y="362" width="96" height="48" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="s6yUv9onuNBRDBHXsQw6-51" value="" style="endArrow=none;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="S0Wiqqi0VeldG7RDCI-M-2" target="s6yUv9onuNBRDBHXsQw6-50">
+        <mxCell id="s6yUv9onuNBRDBHXsQw6-51" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="s6yUv9onuNBRDBHXsQw6-50">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="420" y="570" as="sourcePoint" />
+            <mxPoint x="70" y="380" as="sourcePoint" />
             <mxPoint x="470" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -237,7 +237,7 @@
             <mxGeometry x="224" y="240" width="96" height="48" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="s6yUv9onuNBRDBHXsQw6-54" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="s6yUv9onuNBRDBHXsQw6-53">
+        <mxCell id="s6yUv9onuNBRDBHXsQw6-54" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="S0Wiqqi0VeldG7RDCI-M-2" target="s6yUv9onuNBRDBHXsQw6-53">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="80" y="360" as="sourcePoint" />
             <mxPoint x="580" y="480" as="targetPoint" />
